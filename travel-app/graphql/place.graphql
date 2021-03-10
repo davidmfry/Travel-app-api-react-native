@@ -1,0 +1,6 @@
+query GetPlace($id: Float!) {
+    place(id:$id) {
+        title
+        description
+    }
+}

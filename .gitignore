@@ -1,0 +1,13 @@
+travel-app/.idea/
+travel-app/.vscode/
+travel-app/.expo/
+travel-app/.expo-shared/
+travel-app/node_modules/
+travel-appbuild/
+travel-app/tmp/
+travel-app/temp/
+
+travel-api/.idea/
+travel-api/node_modules/
+travel-api/database.sqlite
+
